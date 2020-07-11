@@ -27,12 +27,13 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 8px;
 }
 
 .footer {
   position: absolute;
   bottom: 0;
-  font-size: calc(1.75vmin);
+  font-size: calc(4px + 2vmin);
 }
 
 .App-link {
