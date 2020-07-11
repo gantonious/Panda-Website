@@ -7,9 +7,12 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Panda - A new way to experience Reddit on iOS
+        <p className="App-title">
+          <strong>Panda</strong> for Reddit
         </p>
+        <p className="App-title-subtext">A new way to experience Reddit on iOS coming soon</p>
+
+        <p className="footer">Copyright 2020 © George Antonious</p>
       </header>
     </div>
   );
