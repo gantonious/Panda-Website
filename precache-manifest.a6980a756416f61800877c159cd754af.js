@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f40b8e41444208c96cea56670cf82b06",
+    "revision": "00c2213e370f2cf01edf557592990807",
     "url": "/panda-website/index.html"
   },
   {
-    "revision": "16c63fcbf41cfea7a9c8",
-    "url": "/panda-website/static/css/main.5f361e03.chunk.css"
+    "revision": "d62dfc44349ed681779a",
+    "url": "/panda-website/static/css/main.144b5a83.chunk.css"
   },
   {
     "revision": "ec182c6bec4ab4fa6d1b",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/panda-website/static/js/2.23ca9163.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16c63fcbf41cfea7a9c8",
-    "url": "/panda-website/static/js/main.b5d635c0.chunk.js"
+    "revision": "d62dfc44349ed681779a",
+    "url": "/panda-website/static/js/main.226c874e.chunk.js"
   },
   {
     "revision": "a67c660d0d64187ecb16",
     "url": "/panda-website/static/js/runtime-main.8dac893a.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/panda-website/static/media/logo.5d5d9eef.svg"
+    "revision": "6ec9a1de209a5871562549f4e024044f",
+    "url": "/panda-website/static/media/panda_1024.6ec9a1de.png"
   }
 ]);

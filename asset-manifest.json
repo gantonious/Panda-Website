@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/panda-website/static/css/main.5f361e03.chunk.css",
-    "main.js": "/panda-website/static/js/main.b5d635c0.chunk.js",
-    "main.js.map": "/panda-website/static/js/main.b5d635c0.chunk.js.map",
+    "main.css": "/panda-website/static/css/main.144b5a83.chunk.css",
+    "main.js": "/panda-website/static/js/main.226c874e.chunk.js",
+    "main.js.map": "/panda-website/static/js/main.226c874e.chunk.js.map",
     "runtime-main.js": "/panda-website/static/js/runtime-main.8dac893a.js",
     "runtime-main.js.map": "/panda-website/static/js/runtime-main.8dac893a.js.map",
     "static/js/2.23ca9163.chunk.js": "/panda-website/static/js/2.23ca9163.chunk.js",
     "static/js/2.23ca9163.chunk.js.map": "/panda-website/static/js/2.23ca9163.chunk.js.map",
     "index.html": "/panda-website/index.html",
-    "precache-manifest.d47b23712944c5dcba6d8149beb06996.js": "/panda-website/precache-manifest.d47b23712944c5dcba6d8149beb06996.js",
+    "precache-manifest.a6980a756416f61800877c159cd754af.js": "/panda-website/precache-manifest.a6980a756416f61800877c159cd754af.js",
     "service-worker.js": "/panda-website/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/panda-website/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.144b5a83.chunk.css.map": "/panda-website/static/css/main.144b5a83.chunk.css.map",
     "static/js/2.23ca9163.chunk.js.LICENSE.txt": "/panda-website/static/js/2.23ca9163.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/panda-website/static/media/logo.5d5d9eef.svg"
+    "static/media/panda_1024.png": "/panda-website/static/media/panda_1024.6ec9a1de.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8dac893a.js",
     "static/js/2.23ca9163.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b5d635c0.chunk.js"
+    "static/css/main.144b5a83.chunk.css",
+    "static/js/main.226c874e.chunk.js"
   ]
 }
