@@ -3,6 +3,7 @@
 }
 
 .App-logo {
+  margin-top: 20px;
   height: 34vmin;
   pointer-events: none;
   border-radius: 32px;
@@ -16,6 +17,7 @@
 
 .App-title-subtext {
   margin-top: 0px;
+  margin-bottom: 40px;
 }
 
 .App-header {
@@ -38,4 +40,24 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.Section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.SectionContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-inline-end: 40px;
+  margin-bottom: 40px;
+}
+
+.app-images {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
